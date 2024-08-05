@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gunavardhan sai Putta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center"> 🚀 A passionate Full Stack Web developer | AI Enthusiast from India</h3>
+
+
+- 🎓 Background:
+Electronics and Communication Engineering graduate
+Strong foundation in software development, artificial intelligence, and full-stack web development
+
+- 💼 Experience:
+Successfully completed numerous projects leveraging deep learning, full-stack frameworks, and database management
+Hands-on experience in creating innovative solutions to complex problems
+
+- 📜 Certifications:
+Various certifications in software development and AI, demonstrating a commitment to continuous learning and professional growth
+
+- 🌱 Passion:
+Eager to leverage my skills to drive organizational growth and contribute to dynamic and innovative technology environments
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunavardhansai&label=Profile%20views&color=0e75b6&style=flat" alt="gunavardhansai" /> </p>
 
