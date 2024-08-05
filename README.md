@@ -2,18 +2,18 @@
 <h3 align="center"> 🚀 A passionate Full Stack Web developer | AI Enthusiast from India</h3>
 
 
-- 🎓 Background:
+- **🎓 Background:**
 Electronics and Communication Engineering graduate
 Strong foundation in software development, artificial intelligence, and full-stack web development
 
-- 💼 Experience:
+- **💼 Experience:**
 Successfully completed numerous projects leveraging deep learning, full-stack frameworks, and database management
 Hands-on experience in creating innovative solutions to complex problems
 
-- 📜 Certifications:
+- **📜 Certifications:**
 Various certifications in software development and AI, demonstrating a commitment to continuous learning and professional growth
 
-- 🌱 Passion:
+- **🌱 Passion:**
 Eager to leverage my skills to drive organizational growth and contribute to dynamic and innovative technology environments
 
 
